@@ -12,6 +12,7 @@ Este projeto consiste em um sistema de monitoramento de nível de água em um re
 entre a borda do reservatório e o fundo e converte essa distância em porcentagem, enviando os dados para o Node-RED via MQTT.
 */
 
+
 // Inclusão de bibliotecas
 #include <WiFi.h>
 #include <PubSubClient.h>
