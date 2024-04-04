@@ -8,6 +8,7 @@ Sistema de Monitoramento de Reservatório de Água com ESP32 e Sensor Ultrassôn
 
 Este projeto consiste em um sistema de monitoramento de nível de água em um reservatório utilizando um ESP32 e um sensor ultrassônico HCSR04. O sistema mede a distância 
 entre a borda do reservatório e o fundo e converte essa distância em porcentagem, enviando os dados para o Node-RED via MQTT.
+
 */
 
 // Inclusão de bibliotecas
